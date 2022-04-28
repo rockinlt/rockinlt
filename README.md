@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rockinlt
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning (html css),java-script
+- 💞️ I’m looking to collaborate on fivver , upwork and linkden
+-you can easily reach me by email (zabiruddin15@gmai.com).
